@@ -34,4 +34,8 @@ We suggest that you begin by typing:
 
 5. create repository on github - and push initial commit (follow instructions as required)
 
+1. `npm i -D chai`
 
+1. `npm i -D enzyme`
+
+1. See https://github.com/airbnb/enzyme#installation - version is >15.5 `npm i --save-dev react-test-renderer react-dom`
