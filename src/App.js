@@ -13,6 +13,8 @@ class App extends Component {
         </div>
         <div>
           <Game />
+          <Game />
+          <Game />
         </div>
       </div>
       );
